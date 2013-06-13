@@ -13,7 +13,7 @@
 Summary: Net::LDAP for Ruby implements client access LDAP protocol
 Name: rubygem-%{gem_name}
 Version: 0.3.1
-Release: 1%{?dist}
+Release: 2%{?dist}
 Group: Development/Languages
 License: MIT
 URL: http://net-ldap.rubyforge.org/
